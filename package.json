@@ -2,8 +2,8 @@
     "name"        : "str-allow",
     "description" : "Filter string characters.",
     "homepage"    : "https://github.com/daxxog/str-allow",
-    "main"        : "server.js",
-    "version"     : "0.0.1",
+    "main"        : "str-allow.js",
+    "version"     : "0.0.2",
     "engines": { "node" : ">=0.4.0" },
     "maintainers": [{
         "name"  : "David Volm",
